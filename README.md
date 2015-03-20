@@ -1,2 +1,2 @@
 # isoWeek
-Functions for working with ISO weeks and dates
+Functions for working with ISO week and date for NodeJS
